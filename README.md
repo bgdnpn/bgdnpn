@@ -9,9 +9,9 @@ My passion is merging deep technical insight with strategic product thinking to 
 I bring **15 years of software experience** with a unique perspective:
 
 * **10+ Years in Product:** Strategic Product Management (**Director, Lead, Senior** roles) for complex **B2B/Enterprise SaaS**. I focus on **product-market fit, growth strategy, and organizational scale**.
-* **5 Years in Engineering:** A foundational background in **Software Development** that allows me to deeply understand architecture, technology trade-offs, and technical debt.
+* **5 Years in Engineering:** A foundational background in **Software Engineering** that allows me to deeply understand architecture, technology trade-offs, and technical debt.
 
-This duality means I can **read a PR, whiteboard a complex system, and present a business case**—all in the same afternoon.
+This duality means I can **read a PR, write some code, whiteboard a complex system, and present a business case or host a roadmapping session**—all in the same afternoon.
 
 ---
 
@@ -20,8 +20,8 @@ This duality means I can **read a PR, whiteboard a complex system, and present a
 | Category | Skills & Focus Areas |
 | :--- | :--- |
 | **Product Strategy** | Product Roadmapping, OKRs, Product Analytics, Stakeholder Management, B2B/Enterprise SaaS |
-| **Technical Stack** | Python, JavaScript/Node.js, AWS/Cloud Architecture, Microservices, CI/CD, SQL/NoSQL |
-| **Methodologies** | Agile/Scrum, User Research, Design Thinking, Go-To-Market Planning |
+| **Technical Stack** | Python, Ruby, JavaScript/Node.js, Cloud Architecture and Management, CI/CD, SQL/NoSQL |
+| **Methodologies** | Agile/Scrum/Kanban, User Research, Design Thinking, Go-To-Market Planning |
 
 ---
 
